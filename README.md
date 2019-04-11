@@ -35,3 +35,6 @@ The breakpoint should be hit and you can analyze in the debugger the object...
 ```
 (dlv) p obj
 ```
+
+You can read the article on this example.
+https://medium.com/@trstringer/create-kubernetes-controllers-for-core-and-custom-resources-62fc35ad64a3
